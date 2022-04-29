@@ -1,0 +1,6 @@
+UBUNTU
+crear directorio: mkdir
+lista: ls
+cambiar directorio: cd / (esto abrira el directorio raiz), cd.. (abrir un nivel hasta el directorio), cd- abrira el directorio anterior
+copiar: cp (/test# cp t1/*t2(este comando copiara todos los archivos de la carpeta t1 en la carpeta t2))
+super user do: sudo
